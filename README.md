@@ -10,9 +10,9 @@ Dataset Summary
 
 ##### Please use the data set from hear ## And create a folder called sample data 
 ## Unable to upload the data file to GitHub due to size issues 
-Data set used: https://github.com/Siddardha-Maganti-Sage/coupons_accepted/blob/main/coupons_acceptance/data/coupons.csv
+Data set used: https://github.com/Siddardha-Maganti-Sage/used_car_priceing/blob/main/practical_application_II_starter/data/vehicles.csv
 
-Jupiter Notebook link: https://github.com/Siddardha-Maganti-Sage/used_car_priceing/blob/main/practical_application_II_starter%20(1)/prompt_II.ipynb
+Jupiter Notebook link: https://github.com/Siddardha-Maganti-Sage/used_car_priceing/edit/main/practical_application_II_starter/prompt_II.ipynb
 
 ### Business Understanding
 Definition:
