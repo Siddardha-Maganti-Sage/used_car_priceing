@@ -12,7 +12,7 @@ Dataset Summary
 ## Unable to upload the data file to GitHub due to size issues 
 Data set used: https://github.com/Siddardha-Maganti-Sage/used_car_priceing/blob/main/practical_application_II_starter/data/vehicles.csv
 
-Jupiter Notebook link: https://github.com/Siddardha-Maganti-Sage/used_car_priceing/edit/main/practical_application_II_starter/prompt_II.ipynb
+Jupiter Notebook link: [https://github.com/Siddardha-Maganti-Sage/used_car_priceing/edit/main/practical_application_II_starter/prompt_II.ipynb](https://github.com/Siddardha-Maganti-Sage/used_car_priceing/blob/73a8a56a7bdff7b130fe12aa6937056c5f092bd3/practical_application_II_starter/prompt_II.ipynb)
 
 ### Business Understanding
 Definition:
