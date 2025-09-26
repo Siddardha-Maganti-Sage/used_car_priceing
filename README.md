@@ -9,7 +9,7 @@ To frame the task, throughout our practical applications, we will refer back to 
 Dataset Summary
 
 ##### Please use the data set from hear ## And create a folder called sample data 
-## Undable to upload the data file to github due to size issues 
+## Unable to upload the data file to GitHub due to size issues 
 Data set used: https://github.com/Siddardha-Maganti-Sage/coupons_accepted/blob/main/coupons_acceptance/data/coupons.csv
 
 Jupiter Notebook link: https://github.com/Siddardha-Maganti-Sage/coupons_accepted/blob/main/coupons_acceptance/prompt_assignment.ipynb**
